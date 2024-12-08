@@ -1,6 +1,6 @@
 # Bingo-Game-Java
 
-Welcome to the Bingo Game, a console-based Java application offering a fun and interactive experience with two exciting game modes. This project demonstrates fundamental programming concepts while delivering a fully functional Bingo game for up to four players.
+Welcome to the Bingo Game, a console-based Java application offering a fun and interactive experience with two exciting game modes. This project demonstrates fundamental programming concepts while delivering a fully functional Bingo game. 
 
 # Features:
 1. Dynamic Bingo Card Generation: Automatically generates 5x5 Bingo cards with unique numbers and a free center space.
